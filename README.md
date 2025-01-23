@@ -2,6 +2,8 @@ i'm doing some changes here....
 
 now I'm doing some more changes here, online
 
+now let's create a website!
+
 ![logo](lecture/static/logo.png)
 
 
