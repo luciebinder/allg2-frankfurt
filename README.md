@@ -1,8 +1,4 @@
-i'm doing some changes here....
-
-now I'm doing some more changes here, online
-
-now let's create a website!
+This is the link to my website: https://luciebinder.github.io/my_course/
 
 ![logo](lecture/static/logo.png)
 
