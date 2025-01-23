@@ -1,3 +1,5 @@
+i'm doing some changes here....
+
 ![logo](lecture/static/logo.png)
 
 
