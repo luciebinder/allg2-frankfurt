@@ -1,13 +1,17 @@
-# Course overview & procedure
+# Course overview and procedure
 
-Detailed explanation of what the course is about,
+This website provides essential information for those working, conducting research, or writing theses in the Department of General Psychology II.
+It covers the following areas:
 
-list of content chapter
-- 
-- 
+- Sharing files using Hessenbox
+- Creating surveys with Soscisurvey
+- Collecting data with Sona System
+- Analyzing data with R
+- Managing literature with Zotero
+- Sharing research via OSF and LIFOS
+- Keeping this website up to date with GitHub
 
-How you want to go about teaching.
-
+This website is intended to be both an introduction and a resource. 
 ### TL;DR
 
 Within this course we will explore X, specifically how it can and why it should be utilized within X. To do so, we will follow a "learning by doing" approach X. The steps will be the following: X, X, X. For a rather precise outline of the course, please consult the [respective section]().
