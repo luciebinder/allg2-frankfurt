@@ -11,7 +11,8 @@ It covers the following areas:
 - Sharing research via OSF and LIFOS
 - Keeping this website up to date with GitHub
 
-This website is intended to be both an introduction and a resource. 
+This website is designed to serve as both an introductory guide and a comprehensive resource.
+
 ### TL;DR
 
 Within this course we will explore X, specifically how it can and why it should be utilized within X. To do so, we will follow a "learning by doing" approach X. The steps will be the following: X, X, X. For a rather precise outline of the course, please consult the [respective section]().
